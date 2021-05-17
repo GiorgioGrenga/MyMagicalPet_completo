@@ -1,0 +1,3 @@
+creare un database di nome "elenco_iscritti" su pgAdmin4, dopodichè inserendo la seguente stringa di codice 
+nel query tool percreare la tabella delle persone che si registreranno:
+create table iscritti(email varchar(40), password varchar(30), nome varchar(30), cognome varchar(30), username varchar(30));
